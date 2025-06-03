@@ -31,4 +31,4 @@ The company should focus on optimizing sales of women’s athletic footwear and 
 
 ##### Screenshot
 Show what the dashboard looks like- ![Alt text](https://github.com/username/repo/assets/image.png)
-Example: ![Dashboard Preview}(https://github.com/ujjwalofficial092/Adidas-Sales-Dashboard/blob/main/Dashboard%20image.png)
+Example: ![Dashboard Preview](https://github.com/ujjwalofficial092/Adidas-Sales-Dashboard/blob/main/Dashboard%20image.png)
