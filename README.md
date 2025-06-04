@@ -23,18 +23,18 @@ I have used Area chart, Filled Map, Donut Chart, Bar chart to get insights from 
 
 ### Key insights:
 
-```
+
 * Highest Sales states: NewYork and California 
 * Lowest Sales state: Nebraska
-```
-Top-Selling Product: Men's athletic footwear
-Least-Selling Product: Women's athletic footwear 
 
-Top performing retailers: West Gear and Footlocker 
-Low performing retailer: Walmart
+* Top-Selling Product: Men's athletic footwear
+* Least-Selling Product: Women's athletic footwear 
 
-Region with highest sales: West
-Region with lowest sales: Mid-West
+* Top performing retailers: West Gear and Footlocker 
+* Low performing retailer: Walmart
+
+* Region with highest sales: West
+* Region with lowest sales: Mid-West
 
 ### Results:
 Adidas’s Sales performance from 2020 to 2021, reveals significant growth in total sales increasing from $182M to $718M. The top selling products that drives sales growth are Men’s Street Footwear and Women’s apparel. Adidas’s partnerships with Foot Locker and West Gear proved to be highly effective, which makes them top performers. In terms of regional sales trends, West drives the most sales. NewYork and California are the highest sales generating states but NewYork’s sales drop is a matter of concern.
