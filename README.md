@@ -27,7 +27,7 @@ I have used Area chart, Filled Map, Donut Chart, Bar chart to get insights from 
 Total sales = $900M
 Operating Profit = $332M
 Operating Margin = 42%
-Average Price per unit = $45
+Avg Price per unit = $45
 Total Units sold = 2M
 ```
 
