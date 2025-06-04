@@ -14,8 +14,8 @@ The primary dataset used for this analysis is the "Adidas US Sales Datasets" fil
 
 Adidas, a leading sports brand, seeks to understand its sales performance. The company wants to understand:
 
-1. What is the total sales, average price per unit, operating profit, operating margin and units sold till now.
-2. What are the top performing products, retailers and  geographic regions.
+1. What is the total sales, average price per unit, operating profit, operating margin and units sold till now?
+2. What are the top performing products, retailers and  geographic regions?
 3. Identify areas of improvement and opportunities for growth in sales.
 
 ### Charts Used
