@@ -23,8 +23,8 @@ I have used Area chart, Filled Map, Donut Chart, Bar chart to get insights from 
 
 ### Key insights:
 
--Highest Sales states: NewYork and California 
--Lowest Sales state: Nebraska
+*Highest Sales states: NewYork and California 
+*Lowest Sales state: Nebraska
 
 Top-Selling Product: Men's athletic footwear
 Least-Selling Product: Women's athletic footwear 
