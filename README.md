@@ -47,6 +47,10 @@ Adidas’s Sales performance from 2020 to 2021, reveals significant growth in to
 
 The company should focus on optimizing sales of women’s athletic footwear and expanding Adidas’s presence in underperforming states like Nebraska. Adidas should focus on NewYork’s market as it has much potential to contribute in total sales. It should implement its marketing strategies in peak sales months like July and August to get maximum profit.
 
+### Conclusion 
+
+Adidas' sales performance analysis reveals significant growth opportunities. By focusing on product development, strengthening retailer partnerships, and targeted marketing, Adidas can drive sales growth and improve profitability. Addressing areas of improvement and building on strengths will enable Adidas to continue its upward trajectory and achieve long-term success.
+
 ##### Screenshot
 
 Show what the dashboard looks like- 
