@@ -54,4 +54,4 @@ Adidas' sales performance analysis reveals significant growth opportunities. By 
 ##### Screenshot
 
 Show what the dashboard looks like- 
-Example: ![Dashboard Preview](https://github.com/ujjwalofficial092/Adidas-Sales-Dashboard/blob/main/Dashboard%20image.png)
+ ![Dashboard Preview](https://github.com/ujjwalofficial092/Adidas-Sales-Dashboard/blob/main/Dashboard%20image.png)
